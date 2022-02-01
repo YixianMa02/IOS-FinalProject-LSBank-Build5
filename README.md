@@ -5,8 +5,11 @@ This is a mobile application on ios which simulate a banking app. It allows the 
 his own money to other exist users and receive money from other user as well. All of this exist because of the use of the API (in this case, we used postman) 
 
 # Contribution
-The API and CoreData parts of the application were coded and provided by our teacher.
-As for the rest of the application, we coded it with tips and help from our teacher.
+The API parts of the application were coded and provided by our teacher.
+As for the rest of the application is build by all team members under the teacher supervision.
 
 # Version 
 Build Number 5
+
+# Current State
+There is still some features missing. However, the main functionalities are built. 
